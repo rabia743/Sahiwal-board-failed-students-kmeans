@@ -50,7 +50,7 @@ Save Model & Display Results
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/rabia743/Sahiwal-board-failed-students-kmeans.git>
 cd student-failure-analysis-clustering
 ```
 
